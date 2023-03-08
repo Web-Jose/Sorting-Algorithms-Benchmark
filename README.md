@@ -16,6 +16,13 @@ The following requirements are necessary to run this program:
 ## Usage
 To run this program, compile the '**main.cpp**' file and run the executable. The output will display the unsorted array, followed by the sorted array for each of the three sorting algorithms. For each sorting algorithm, the execution time in milliseconds will be displayed.
 
+## Dependencies
+This program uses the following C++ standard libraries:
+
+- iostream
+- vector
+- chrono
+
 ## Implementation
 The '**MyArray**' class is defined with private member variables that store the initial array of integers, as well as vectors to store the sorted arrays for each sorting algorithm. The class also has member functions to perform each of the three sorting algorithms and to display the execution times for each algorithm.
 
