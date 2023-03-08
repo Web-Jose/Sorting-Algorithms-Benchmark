@@ -13,6 +13,10 @@ The program also measures the time it takes for each algorithm to sort the array
 The following requirements are necessary to run this program:
 
 - C++11 compiler or newer
+
+## How to run the program
+To run the program, compile the code using a C++ compiler and run the resulting executable file. The program will automatically create an array of 10,000 random integers and sort it using each of the algorithms mentioned above.
+
 ## Usage
 To run this program, compile the '**main.cpp**' file and run the executable. The output will display the unsorted array, followed by the sorted array for each of the three sorting algorithms. For each sorting algorithm, the execution time in milliseconds will be displayed.
 
@@ -30,3 +34,6 @@ The '**main**' function creates an instance of the '**MyArray**' class and calls
 
 ## Credits
 This program was written by Jose Cortes as an assignment for the CSCI 41 course at California State University of Fresno
+
+## License
+This code is licensed under the MIT License. See the LICENSE file for more information.
